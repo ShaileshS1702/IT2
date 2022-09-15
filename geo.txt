@@ -1,0 +1,6 @@
+geo dec nm "https://www.geoguessr.com/challenge/yKjvFMlk8HN2iDlJ","https://www.geoguessr.com/challenge/a7O26hWtztXm3IlH","https://www.geoguessr.com/challenge/DireIiUJS22xSLXH","https://www.geoguessr.com/challenge/yxbS1o8XQU8hEAr2","https://www.geoguessr.com/challenge/eQiI8VDjJtXssYiX","https://www.geoguessr.com/challenge/06yuWm5rBT4P1bjR","https://www.geoguessr.com/challenge/RgRcWCFffgHB9YIz","https://www.geoguessr.com/challenge/QWYzHAyDKe9vmjrz","https://www.geoguessr.com/challenge/w5QuYbFnR8fVH6po","https://www.geoguessr.com/challenge/xlPKQgqrq39Bex0h","","","","","","","","","","","",
+
+norway
+"https://www.geoguessr.com/challenge/gqz9fMtpViGs4XMJ", "https://www.geoguessr.com/challenge/I4LmVzpc7Z5GFJPl","https://www.geoguessr.com/challenge/W4pDiamXoctig9n7","https://www.geoguessr.com/challenge/gvdSEsR4UHaR3mMa","https://www.geoguessr.com/challenge/fdsnLxscs4uoP1M5","https://www.geoguessr.com/challenge/iCgIiwieCHRtJviT","https://www.geoguessr.com/challenge/SPtVkdim9FFjII9M","https://www.geoguessr.com/challenge/Y4YOdWCYFJjhmYA6","https://www.geoguessr.com/challenge/4BY47YuEW1ap3HCP","https://www.geoguessr.com/challenge/sQjI6YbRp0xOdzuj"
+
+cityguessr nm
